@@ -1,0 +1,6948 @@
+fileFormatVersion: 2
+guid: de12c4c3c008fff43850718e2b727407
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2773245216053477719
+    second: NicePng_super-mario-world-png_1684550_0
+  - first:
+      213: -4423000815571842547
+    second: NicePng_super-mario-world-png_1684550_1
+  - first:
+      213: 4505157693550021604
+    second: NicePng_super-mario-world-png_1684550_2
+  - first:
+      213: -857099308815115049
+    second: NicePng_super-mario-world-png_1684550_3
+  - first:
+      213: 1645443076112870332
+    second: NicePng_super-mario-world-png_1684550_4
+  - first:
+      213: 148363808890125513
+    second: NicePng_super-mario-world-png_1684550_5
+  - first:
+      213: -3507440532768397175
+    second: NicePng_super-mario-world-png_1684550_6
+  - first:
+      213: 2903712906061958577
+    second: NicePng_super-mario-world-png_1684550_7
+  - first:
+      213: 412967606487098146
+    second: NicePng_super-mario-world-png_1684550_8
+  - first:
+      213: 7392185610928587452
+    second: NicePng_super-mario-world-png_1684550_9
+  - first:
+      213: 6046876274829977928
+    second: NicePng_super-mario-world-png_1684550_10
+  - first:
+      213: -402461259939236410
+    second: NicePng_super-mario-world-png_1684550_11
+  - first:
+      213: -862628794121116504
+    second: NicePng_super-mario-world-png_1684550_12
+  - first:
+      213: -7603708336269399967
+    second: NicePng_super-mario-world-png_1684550_13
+  - first:
+      213: -3547129554439529780
+    second: NicePng_super-mario-world-png_1684550_14
+  - first:
+      213: 3849274890056436901
+    second: NicePng_super-mario-world-png_1684550_15
+  - first:
+      213: -5157513209769397223
+    second: NicePng_super-mario-world-png_1684550_16
+  - first:
+      213: 7462339002547981334
+    second: NicePng_super-mario-world-png_1684550_17
+  - first:
+      213: 5766063668884100623
+    second: NicePng_super-mario-world-png_1684550_18
+  - first:
+      213: 9099706234359953305
+    second: NicePng_super-mario-world-png_1684550_19
+  - first:
+      213: -31861505865761103
+    second: NicePng_super-mario-world-png_1684550_20
+  - first:
+      213: -2937960649060574866
+    second: NicePng_super-mario-world-png_1684550_21
+  - first:
+      213: 8230141919439194404
+    second: NicePng_super-mario-world-png_1684550_22
+  - first:
+      213: -7420664256728774854
+    second: NicePng_super-mario-world-png_1684550_23
+  - first:
+      213: -7695199613694272895
+    second: NicePng_super-mario-world-png_1684550_24
+  - first:
+      213: -3106556240107371822
+    second: NicePng_super-mario-world-png_1684550_25
+  - first:
+      213: 5819574693350188264
+    second: NicePng_super-mario-world-png_1684550_26
+  - first:
+      213: 6015471697912454346
+    second: NicePng_super-mario-world-png_1684550_27
+  - first:
+      213: 6120956579002365603
+    second: NicePng_super-mario-world-png_1684550_28
+  - first:
+      213: 3228743275861442928
+    second: NicePng_super-mario-world-png_1684550_29
+  - first:
+      213: -3700101934182231581
+    second: NicePng_super-mario-world-png_1684550_30
+  - first:
+      213: 5993671678714455400
+    second: NicePng_super-mario-world-png_1684550_31
+  - first:
+      213: 4646451378358894541
+    second: NicePng_super-mario-world-png_1684550_32
+  - first:
+      213: 2250014040472739123
+    second: NicePng_super-mario-world-png_1684550_33
+  - first:
+      213: 6842419857013720229
+    second: NicePng_super-mario-world-png_1684550_34
+  - first:
+      213: -8050475544873866500
+    second: NicePng_super-mario-world-png_1684550_35
+  - first:
+      213: -2152566413295456364
+    second: NicePng_super-mario-world-png_1684550_36
+  - first:
+      213: 2199180297450845504
+    second: NicePng_super-mario-world-png_1684550_37
+  - first:
+      213: -8221864569999382628
+    second: NicePng_super-mario-world-png_1684550_38
+  - first:
+      213: 1318239433998305559
+    second: NicePng_super-mario-world-png_1684550_39
+  - first:
+      213: 6798259772309345335
+    second: NicePng_super-mario-world-png_1684550_40
+  - first:
+      213: -5644638068199510835
+    second: NicePng_super-mario-world-png_1684550_41
+  - first:
+      213: -6311882287409788932
+    second: NicePng_super-mario-world-png_1684550_42
+  - first:
+      213: -1190557098584919751
+    second: NicePng_super-mario-world-png_1684550_43
+  - first:
+      213: -8754628945158143693
+    second: NicePng_super-mario-world-png_1684550_44
+  - first:
+      213: 5972929655864216361
+    second: NicePng_super-mario-world-png_1684550_45
+  - first:
+      213: 5463639040276873483
+    second: NicePng_super-mario-world-png_1684550_46
+  - first:
+      213: -1910617269966961267
+    second: NicePng_super-mario-world-png_1684550_47
+  - first:
+      213: -1276834349947538279
+    second: NicePng_super-mario-world-png_1684550_48
+  - first:
+      213: 3436627444467458864
+    second: NicePng_super-mario-world-png_1684550_49
+  - first:
+      213: 4657179212059199459
+    second: NicePng_super-mario-world-png_1684550_50
+  - first:
+      213: 6941732538837174519
+    second: NicePng_super-mario-world-png_1684550_51
+  - first:
+      213: 6130363467753723853
+    second: NicePng_super-mario-world-png_1684550_52
+  - first:
+      213: 8968225523733543358
+    second: NicePng_super-mario-world-png_1684550_53
+  - first:
+      213: -6232653916013955120
+    second: NicePng_super-mario-world-png_1684550_54
+  - first:
+      213: 547281007900319414
+    second: NicePng_super-mario-world-png_1684550_55
+  - first:
+      213: 8290419574629851842
+    second: NicePng_super-mario-world-png_1684550_56
+  - first:
+      213: -71288031219477637
+    second: NicePng_super-mario-world-png_1684550_57
+  - first:
+      213: -5586849441412089154
+    second: NicePng_super-mario-world-png_1684550_58
+  - first:
+      213: 2204621984836634977
+    second: NicePng_super-mario-world-png_1684550_59
+  - first:
+      213: -2849232030758143455
+    second: NicePng_super-mario-world-png_1684550_60
+  - first:
+      213: 1327090667549758425
+    second: NicePng_super-mario-world-png_1684550_61
+  - first:
+      213: -6660729016386833364
+    second: NicePng_super-mario-world-png_1684550_62
+  - first:
+      213: 452869882047124286
+    second: NicePng_super-mario-world-png_1684550_63
+  - first:
+      213: -3987490773652819174
+    second: NicePng_super-mario-world-png_1684550_64
+  - first:
+      213: 6450526022252527064
+    second: NicePng_super-mario-world-png_1684550_65
+  - first:
+      213: -3727644932555519411
+    second: NicePng_super-mario-world-png_1684550_66
+  - first:
+      213: 5587911519852869169
+    second: NicePng_super-mario-world-png_1684550_67
+  - first:
+      213: 1456165846217223578
+    second: NicePng_super-mario-world-png_1684550_68
+  - first:
+      213: -8324373356814199830
+    second: NicePng_super-mario-world-png_1684550_69
+  - first:
+      213: 3573791202962799653
+    second: NicePng_super-mario-world-png_1684550_70
+  - first:
+      213: 8192409508455076638
+    second: NicePng_super-mario-world-png_1684550_71
+  - first:
+      213: 4885823779623554683
+    second: NicePng_super-mario-world-png_1684550_72
+  - first:
+      213: -5842461888015402119
+    second: NicePng_super-mario-world-png_1684550_73
+  - first:
+      213: 8114057288706183236
+    second: NicePng_super-mario-world-png_1684550_74
+  - first:
+      213: -1244150646969792327
+    second: NicePng_super-mario-world-png_1684550_75
+  - first:
+      213: 2408426154214108554
+    second: NicePng_super-mario-world-png_1684550_76
+  - first:
+      213: 4970674966231857551
+    second: NicePng_super-mario-world-png_1684550_77
+  - first:
+      213: -1200908082691995321
+    second: NicePng_super-mario-world-png_1684550_78
+  - first:
+      213: 8681666538994952107
+    second: NicePng_super-mario-world-png_1684550_79
+  - first:
+      213: 2688181025851671373
+    second: NicePng_super-mario-world-png_1684550_80
+  - first:
+      213: 1145696729751627870
+    second: NicePng_super-mario-world-png_1684550_81
+  - first:
+      213: -1065842854450549476
+    second: NicePng_super-mario-world-png_1684550_82
+  - first:
+      213: 4342735934306142153
+    second: NicePng_super-mario-world-png_1684550_83
+  - first:
+      213: -5043544162781794601
+    second: NicePng_super-mario-world-png_1684550_84
+  - first:
+      213: -7339979201693500100
+    second: NicePng_super-mario-world-png_1684550_85
+  - first:
+      213: 6753616928424421197
+    second: NicePng_super-mario-world-png_1684550_86
+  - first:
+      213: 3137278516034803795
+    second: NicePng_super-mario-world-png_1684550_87
+  - first:
+      213: 2842478850201661001
+    second: NicePng_super-mario-world-png_1684550_88
+  - first:
+      213: 2033770425790056134
+    second: NicePng_super-mario-world-png_1684550_89
+  - first:
+      213: -1921070306684488691
+    second: NicePng_super-mario-world-png_1684550_90
+  - first:
+      213: 7125546229876983457
+    second: NicePng_super-mario-world-png_1684550_91
+  - first:
+      213: -2794592093266110058
+    second: NicePng_super-mario-world-png_1684550_92
+  - first:
+      213: -8531867294790982728
+    second: NicePng_super-mario-world-png_1684550_93
+  - first:
+      213: 7218347530553368328
+    second: NicePng_super-mario-world-png_1684550_94
+  - first:
+      213: 2818473886298243858
+    second: NicePng_super-mario-world-png_1684550_95
+  - first:
+      213: 4186490322601491221
+    second: NicePng_super-mario-world-png_1684550_96
+  - first:
+      213: 2452488884171737944
+    second: NicePng_super-mario-world-png_1684550_97
+  - first:
+      213: 4047146881568492132
+    second: NicePng_super-mario-world-png_1684550_98
+  - first:
+      213: -211360223310595337
+    second: NicePng_super-mario-world-png_1684550_99
+  - first:
+      213: 5068856068911402753
+    second: NicePng_super-mario-world-png_1684550_100
+  - first:
+      213: -8339723272820396037
+    second: NicePng_super-mario-world-png_1684550_101
+  - first:
+      213: 9132799276139653571
+    second: NicePng_super-mario-world-png_1684550_102
+  - first:
+      213: -3534572852090588013
+    second: NicePng_super-mario-world-png_1684550_103
+  - first:
+      213: 574838017274980209
+    second: NicePng_super-mario-world-png_1684550_104
+  - first:
+      213: 849457034919626705
+    second: NicePng_super-mario-world-png_1684550_105
+  - first:
+      213: -7817677622388197226
+    second: NicePng_super-mario-world-png_1684550_106
+  - first:
+      213: 6026422650018879812
+    second: NicePng_super-mario-world-png_1684550_107
+  - first:
+      213: 8936711425565539739
+    second: NicePng_super-mario-world-png_1684550_108
+  - first:
+      213: -8040394612529623012
+    second: NicePng_super-mario-world-png_1684550_109
+  - first:
+      213: -2927728941151949286
+    second: NicePng_super-mario-world-png_1684550_110
+  - first:
+      213: 7424779499964375535
+    second: NicePng_super-mario-world-png_1684550_111
+  - first:
+      213: 328726536427540951
+    second: NicePng_super-mario-world-png_1684550_112
+  - first:
+      213: -581550632812680681
+    second: NicePng_super-mario-world-png_1684550_113
+  - first:
+      213: -8562179910594239133
+    second: NicePng_super-mario-world-png_1684550_114
+  - first:
+      213: -1750701928742010791
+    second: NicePng_super-mario-world-png_1684550_115
+  - first:
+      213: -1109679929969468526
+    second: NicePng_super-mario-world-png_1684550_116
+  - first:
+      213: 1671777587702241936
+    second: NicePng_super-mario-world-png_1684550_117
+  - first:
+      213: 2648190548454027168
+    second: NicePng_super-mario-world-png_1684550_118
+  - first:
+      213: -6867343184371535937
+    second: NicePng_super-mario-world-png_1684550_119
+  - first:
+      213: -1697000687907756117
+    second: NicePng_super-mario-world-png_1684550_120
+  - first:
+      213: -7826526744800262211
+    second: NicePng_super-mario-world-png_1684550_121
+  - first:
+      213: 2747951644477794423
+    second: NicePng_super-mario-world-png_1684550_122
+  - first:
+      213: 2858135728710156446
+    second: NicePng_super-mario-world-png_1684550_123
+  - first:
+      213: 549864118999575308
+    second: NicePng_super-mario-world-png_1684550_124
+  - first:
+      213: 1562808379019406180
+    second: NicePng_super-mario-world-png_1684550_125
+  - first:
+      213: -3337369200581782652
+    second: NicePng_super-mario-world-png_1684550_126
+  - first:
+      213: -301725674316142557
+    second: NicePng_super-mario-world-png_1684550_127
+  - first:
+      213: 5115533193915086061
+    second: NicePng_super-mario-world-png_1684550_128
+  - first:
+      213: 4035542969837335371
+    second: NicePng_super-mario-world-png_1684550_129
+  - first:
+      213: 1396759625275348602
+    second: NicePng_super-mario-world-png_1684550_130
+  - first:
+      213: -7031098469154606259
+    second: NicePng_super-mario-world-png_1684550_131
+  - first:
+      213: 6955457642672949488
+    second: NicePng_super-mario-world-png_1684550_132
+  - first:
+      213: 6922972063868213080
+    second: NicePng_super-mario-world-png_1684550_133
+  - first:
+      213: 6865160597991015537
+    second: NicePng_super-mario-world-png_1684550_134
+  - first:
+      213: -5924667606965310310
+    second: NicePng_super-mario-world-png_1684550_135
+  - first:
+      213: 4186214269086111182
+    second: NicePng_super-mario-world-png_1684550_136
+  - first:
+      213: 9004046205266572719
+    second: NicePng_super-mario-world-png_1684550_137
+  - first:
+      213: -299194045164524195
+    second: NicePng_super-mario-world-png_1684550_138
+  - first:
+      213: 1077394421397095906
+    second: NicePng_super-mario-world-png_1684550_139
+  - first:
+      213: -8243958336590660639
+    second: NicePng_super-mario-world-png_1684550_140
+  - first:
+      213: -373141934401439819
+    second: NicePng_super-mario-world-png_1684550_141
+  - first:
+      213: -6743540490203511364
+    second: NicePng_super-mario-world-png_1684550_142
+  - first:
+      213: -5355371004774400562
+    second: NicePng_super-mario-world-png_1684550_143
+  - first:
+      213: -2761599590881314246
+    second: NicePng_super-mario-world-png_1684550_144
+  - first:
+      213: 4672976595077455748
+    second: NicePng_super-mario-world-png_1684550_145
+  - first:
+      213: -2462435686549881696
+    second: NicePng_super-mario-world-png_1684550_146
+  - first:
+      213: 6086798347993622960
+    second: NicePng_super-mario-world-png_1684550_147
+  - first:
+      213: 3709263576494950682
+    second: NicePng_super-mario-world-png_1684550_148
+  - first:
+      213: -5947988896536540270
+    second: NicePng_super-mario-world-png_1684550_149
+  - first:
+      213: -738573804836458270
+    second: NicePng_super-mario-world-png_1684550_150
+  - first:
+      213: -5646231771916004029
+    second: NicePng_super-mario-world-png_1684550_151
+  - first:
+      213: 2394039953407831013
+    second: NicePng_super-mario-world-png_1684550_152
+  - first:
+      213: -6118675709482112217
+    second: NicePng_super-mario-world-png_1684550_153
+  - first:
+      213: -2971091985338144585
+    second: NicePng_super-mario-world-png_1684550_154
+  - first:
+      213: 4257463030864158816
+    second: NicePng_super-mario-world-png_1684550_155
+  - first:
+      213: 7053627938533091988
+    second: NicePng_super-mario-world-png_1684550_156
+  - first:
+      213: -8880049350929131503
+    second: NicePng_super-mario-world-png_1684550_157
+  - first:
+      213: 8295896251140334316
+    second: NicePng_super-mario-world-png_1684550_158
+  - first:
+      213: -3172147995080498321
+    second: NicePng_super-mario-world-png_1684550_159
+  - first:
+      213: 1812217296600088106
+    second: NicePng_super-mario-world-png_1684550_160
+  - first:
+      213: -945505106157119192
+    second: NicePng_super-mario-world-png_1684550_161
+  - first:
+      213: -4735358363832113112
+    second: NicePng_super-mario-world-png_1684550_162
+  - first:
+      213: -1834063042620173423
+    second: NicePng_super-mario-world-png_1684550_163
+  - first:
+      213: 3063313461539133838
+    second: NicePng_super-mario-world-png_1684550_164
+  - first:
+      213: 6622187110341389909
+    second: NicePng_super-mario-world-png_1684550_165
+  - first:
+      213: -6747430933148520430
+    second: NicePng_super-mario-world-png_1684550_166
+  - first:
+      213: -6256493584957579382
+    second: NicePng_super-mario-world-png_1684550_167
+  - first:
+      213: 4691150607479755907
+    second: NicePng_super-mario-world-png_1684550_168
+  - first:
+      213: 6821011090805226198
+    second: NicePng_super-mario-world-png_1684550_169
+  - first:
+      213: -1692369905529798804
+    second: NicePng_super-mario-world-png_1684550_170
+  - first:
+      213: -5530236935591949857
+    second: NicePng_super-mario-world-png_1684550_171
+  - first:
+      213: 8814825969342979728
+    second: NicePng_super-mario-world-png_1684550_172
+  - first:
+      213: -5980655659814085772
+    second: NicePng_super-mario-world-png_1684550_173
+  - first:
+      213: -4521847865815497680
+    second: NicePng_super-mario-world-png_1684550_174
+  - first:
+      213: 415071024199345309
+    second: NicePng_super-mario-world-png_1684550_175
+  - first:
+      213: 1478071396009526789
+    second: NicePng_super-mario-world-png_1684550_176
+  - first:
+      213: 2997326663269712658
+    second: NicePng_super-mario-world-png_1684550_177
+  - first:
+      213: -4883864334633928163
+    second: NicePng_super-mario-world-png_1684550_178
+  - first:
+      213: -4064027494384659971
+    second: NicePng_super-mario-world-png_1684550_179
+  - first:
+      213: 7023675931925325288
+    second: NicePng_super-mario-world-png_1684550_180
+  - first:
+      213: 6959083213127824787
+    second: NicePng_super-mario-world-png_1684550_181
+  - first:
+      213: -3094301965493277185
+    second: NicePng_super-mario-world-png_1684550_182
+  - first:
+      213: 712340745320105484
+    second: NicePng_super-mario-world-png_1684550_183
+  - first:
+      213: -454609656210490693
+    second: NicePng_super-mario-world-png_1684550_184
+  - first:
+      213: 9150064653129538368
+    second: NicePng_super-mario-world-png_1684550_185
+  - first:
+      213: 6185130977998422860
+    second: NicePng_super-mario-world-png_1684550_186
+  - first:
+      213: 8878927286192344860
+    second: NicePng_super-mario-world-png_1684550_187
+  - first:
+      213: 5305929768098673609
+    second: NicePng_super-mario-world-png_1684550_188
+  - first:
+      213: -6219481624115966334
+    second: NicePng_super-mario-world-png_1684550_189
+  - first:
+      213: -350541781265230442
+    second: NicePng_super-mario-world-png_1684550_190
+  - first:
+      213: 1219735304138473493
+    second: NicePng_super-mario-world-png_1684550_191
+  - first:
+      213: -4138199835347374777
+    second: NicePng_super-mario-world-png_1684550_192
+  - first:
+      213: 510809096573208802
+    second: NicePng_super-mario-world-png_1684550_193
+  - first:
+      213: 1076809657249965432
+    second: NicePng_super-mario-world-png_1684550_194
+  - first:
+      213: 746251722411227205
+    second: NicePng_super-mario-world-png_1684550_195
+  - first:
+      213: 1860387814238768526
+    second: NicePng_super-mario-world-png_1684550_196
+  - first:
+      213: 4904581220606604654
+    second: NicePng_super-mario-world-png_1684550_197
+  - first:
+      213: 4155518063928471730
+    second: NicePng_super-mario-world-png_1684550_198
+  - first:
+      213: -7438802577157814944
+    second: NicePng_super-mario-world-png_1684550_199
+  - first:
+      213: -3346853544986925995
+    second: NicePng_super-mario-world-png_1684550_200
+  - first:
+      213: 4116070647754564353
+    second: NicePng_super-mario-world-png_1684550_201
+  - first:
+      213: -9050146669661167647
+    second: NicePng_super-mario-world-png_1684550_202
+  - first:
+      213: -7245243409785645188
+    second: NicePng_super-mario-world-png_1684550_203
+  - first:
+      213: 6785483012455535676
+    second: NicePng_super-mario-world-png_1684550_204
+  - first:
+      213: -3955382415839831617
+    second: NicePng_super-mario-world-png_1684550_205
+  - first:
+      213: 112195517116373547
+    second: NicePng_super-mario-world-png_1684550_206
+  - first:
+      213: 7170019346634369526
+    second: NicePng_super-mario-world-png_1684550_207
+  - first:
+      213: 7782457683245121284
+    second: NicePng_super-mario-world-png_1684550_208
+  - first:
+      213: 7917365982887024539
+    second: NicePng_super-mario-world-png_1684550_209
+  - first:
+      213: -8293920291844034757
+    second: NicePng_super-mario-world-png_1684550_210
+  - first:
+      213: 5775676295635572343
+    second: NicePng_super-mario-world-png_1684550_211
+  - first:
+      213: 1834707615941996590
+    second: NicePng_super-mario-world-png_1684550_212
+  - first:
+      213: 5561648272398792202
+    second: NicePng_super-mario-world-png_1684550_213
+  - first:
+      213: -3571532902682335893
+    second: NicePng_super-mario-world-png_1684550_214
+  - first:
+      213: 8950880656354108029
+    second: NicePng_super-mario-world-png_1684550_215
+  - first:
+      213: -4999905159203047948
+    second: NicePng_super-mario-world-png_1684550_216
+  - first:
+      213: 8541293286129212029
+    second: NicePng_super-mario-world-png_1684550_217
+  - first:
+      213: -7414324185827964528
+    second: NicePng_super-mario-world-png_1684550_218
+  - first:
+      213: -3189623135248702493
+    second: NicePng_super-mario-world-png_1684550_219
+  - first:
+      213: 3074777229352816534
+    second: NicePng_super-mario-world-png_1684550_220
+  - first:
+      213: 5998612245905404926
+    second: NicePng_super-mario-world-png_1684550_221
+  - first:
+      213: -8013952914684631214
+    second: NicePng_super-mario-world-png_1684550_222
+  - first:
+      213: 3467840911214437421
+    second: NicePng_super-mario-world-png_1684550_223
+  - first:
+      213: -8747139158560303839
+    second: NicePng_super-mario-world-png_1684550_224
+  - first:
+      213: -3714528954038376378
+    second: NicePng_super-mario-world-png_1684550_225
+  - first:
+      213: 3441809380984617643
+    second: NicePng_super-mario-world-png_1684550_226
+  - first:
+      213: 7458104504310276314
+    second: NicePng_super-mario-world-png_1684550_227
+  - first:
+      213: 8289374832470429983
+    second: NicePng_super-mario-world-png_1684550_228
+  - first:
+      213: -846342601461247597
+    second: NicePng_super-mario-world-png_1684550_229
+  - first:
+      213: 3370526810763124808
+    second: NicePng_super-mario-world-png_1684550_230
+  - first:
+      213: -6740367505787985292
+    second: NicePng_super-mario-world-png_1684550_231
+  - first:
+      213: 3618695794719346137
+    second: NicePng_super-mario-world-png_1684550_232
+  - first:
+      213: -8044215024221343143
+    second: NicePng_super-mario-world-png_1684550_233
+  - first:
+      213: 6306897289204963246
+    second: NicePng_super-mario-world-png_1684550_234
+  - first:
+      213: -8428606046233366032
+    second: NicePng_super-mario-world-png_1684550_235
+  - first:
+      213: 6030260825395691566
+    second: NicePng_super-mario-world-png_1684550_236
+  - first:
+      213: 5017473698808345112
+    second: NicePng_super-mario-world-png_1684550_237
+  - first:
+      213: 2722052884918526272
+    second: NicePng_super-mario-world-png_1684550_238
+  - first:
+      213: -3339111863456872688
+    second: NicePng_super-mario-world-png_1684550_239
+  - first:
+      213: -3812519159540053275
+    second: NicePng_super-mario-world-png_1684550_240
+  - first:
+      213: 5968842519282327238
+    second: NicePng_super-mario-world-png_1684550_241
+  - first:
+      213: -2242262091057923454
+    second: NicePng_super-mario-world-png_1684550_242
+  - first:
+      213: -7024586746793341805
+    second: NicePng_super-mario-world-png_1684550_243
+  - first:
+      213: 5439215343757975856
+    second: NicePng_super-mario-world-png_1684550_244
+  - first:
+      213: 4064700102112147698
+    second: NicePng_super-mario-world-png_1684550_245
+  - first:
+      213: 3427491730383589557
+    second: NicePng_super-mario-world-png_1684550_246
+  - first:
+      213: 4655305285131843565
+    second: NicePng_super-mario-world-png_1684550_247
+  - first:
+      213: 7554564652188835107
+    second: NicePng_super-mario-world-png_1684550_248
+  - first:
+      213: -7379562260579979291
+    second: NicePng_super-mario-world-png_1684550_249
+  - first:
+      213: 2029087805353312663
+    second: NicePng_super-mario-world-png_1684550_250
+  - first:
+      213: 4809437711590534910
+    second: NicePng_super-mario-world-png_1684550_251
+  - first:
+      213: 5321303485013483586
+    second: NicePng_super-mario-world-png_1684550_252
+  - first:
+      213: 1703019279330410830
+    second: NicePng_super-mario-world-png_1684550_253
+  - first:
+      213: 4025096988990976846
+    second: NicePng_super-mario-world-png_1684550_254
+  - first:
+      213: 5259257717459655261
+    second: NicePng_super-mario-world-png_1684550_255
+  - first:
+      213: 4795998147263743590
+    second: NicePng_super-mario-world-png_1684550_256
+  - first:
+      213: 3904595308684024828
+    second: NicePng_super-mario-world-png_1684550_257
+  - first:
+      213: -599552282122270493
+    second: NicePng_super-mario-world-png_1684550_258
+  - first:
+      213: -8395424219661389997
+    second: NicePng_super-mario-world-png_1684550_259
+  - first:
+      213: 4262185916526372374
+    second: NicePng_super-mario-world-png_1684550_260
+  - first:
+      213: 6776878582126333585
+    second: NicePng_super-mario-world-png_1684550_261
+  - first:
+      213: 274341357348863379
+    second: NicePng_super-mario-world-png_1684550_262
+  - first:
+      213: -7096129099964504414
+    second: NicePng_super-mario-world-png_1684550_263
+  - first:
+      213: 7653332466866326467
+    second: NicePng_super-mario-world-png_1684550_264
+  - first:
+      213: 3098211165285585872
+    second: NicePng_super-mario-world-png_1684550_265
+  - first:
+      213: -1186205263628118457
+    second: NicePng_super-mario-world-png_1684550_266
+  - first:
+      213: 41377281672456491
+    second: NicePng_super-mario-world-png_1684550_267
+  - first:
+      213: -3567131081856172782
+    second: NicePng_super-mario-world-png_1684550_268
+  - first:
+      213: -2282489979114966251
+    second: NicePng_super-mario-world-png_1684550_269
+  - first:
+      213: -1811784634104037603
+    second: NicePng_super-mario-world-png_1684550_270
+  - first:
+      213: 7511285642308708141
+    second: NicePng_super-mario-world-png_1684550_271
+  - first:
+      213: -8589287559200933460
+    second: NicePng_super-mario-world-png_1684550_272
+  - first:
+      213: 7061951807857585168
+    second: NicePng_super-mario-world-png_1684550_273
+  - first:
+      213: 2637215161980353486
+    second: NicePng_super-mario-world-png_1684550_274
+  - first:
+      213: 4839523567062125786
+    second: NicePng_super-mario-world-png_1684550_275
+  - first:
+      213: 5318765932496660081
+    second: NicePng_super-mario-world-png_1684550_276
+  - first:
+      213: 5302379865864773073
+    second: NicePng_super-mario-world-png_1684550_277
+  - first:
+      213: 1430995810579638624
+    second: NicePng_super-mario-world-png_1684550_278
+  - first:
+      213: -4384202070852630235
+    second: NicePng_super-mario-world-png_1684550_279
+  - first:
+      213: -8702510024184959192
+    second: NicePng_super-mario-world-png_1684550_280
+  - first:
+      213: 4271667410388531505
+    second: NicePng_super-mario-world-png_1684550_281
+  - first:
+      213: 3778266690235628083
+    second: NicePng_super-mario-world-png_1684550_282
+  - first:
+      213: 7490836218903241663
+    second: NicePng_super-mario-world-png_1684550_283
+  - first:
+      213: 6508527516354618735
+    second: NicePng_super-mario-world-png_1684550_284
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 470
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb4165b247389d0800000000000000
+      internalID: -2773245216053477719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 470
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ac39a31385e92c0800000000000000
+      internalID: -4423000815571842547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 470
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebca2d8d09858e30800000000000000
+      internalID: 4505157693550021604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc97d048b8fa14f0800000000000000
+      internalID: -857099308815115049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 470
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb65d182c9c5d610800000000000000
+      internalID: 1645443076112870332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7b6e19181f0200800000000000000
+      internalID: 148363808890125513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988688d2b61135fc0800000000000000
+      internalID: -3507440532768397175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 467
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4a87e08f0c4820800000000000000
+      internalID: 2903712906061958577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 467
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2232860a9d72bb500800000000000000
+      internalID: 412967606487098146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 466
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2072dc5a1569660800000000000000
+      internalID: 7392185610928587452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 466
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8496af92fe1dae350800000000000000
+      internalID: 6046876274829977928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 467
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5377dcd9b2a6af0800000000000000
+      internalID: -402461259939236410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 470
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42361aea35704f0800000000000000
+      internalID: -862628794121116504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 470
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686cf8ed833a7690800000000000000
+      internalID: -7603708336269399967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca9757b67016cec0800000000000000
+      internalID: -3547129554439529780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac05a04e1f5b6530800000000000000
+      internalID: 3849274890056436901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147f47bf05dc68b0800000000000000
+      internalID: -5157513209769397223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 414
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c4a6029cd8f8760800000000000000
+      internalID: 7462339002547981334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 480
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065f106b5c250050800000000000000
+      internalID: 5766063668884100623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 467
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997be6b9b96a84e70800000000000000
+      internalID: 9099706234359953305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 465
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bebcd4112ece8ff0800000000000000
+      internalID: -31861505865761103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 465
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691bac0b544a37d0800000000000000
+      internalID: -2937960649060574866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_22
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 471
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42989377876573270800000000000000
+      internalID: 8230141919439194404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 471
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374e34cc21840990800000000000000
+      internalID: -7420664256728774854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 473
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9706e8b8253590800000000000000
+      internalID: -7695199613694272895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 473
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d280a11f8b43e4d0800000000000000
+      internalID: -3106556240107371822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_26
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 476
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4adf4a95843c050800000000000000
+      internalID: 5819574693350188264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accdc7e43af3b7350800000000000000
+      internalID: 6015471697912454346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 444
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b601149102f450800000000000000
+      internalID: 6120956579002365603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07107ac17eccecc20800000000000000
+      internalID: 3228743275861442928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 444
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1155415e896acc0800000000000000
+      internalID: -3700101934182231581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 444
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865281ec2accd2350800000000000000
+      internalID: 5993671678714455400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb43129e28b7040800000000000000
+      internalID: 4646451378358894541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd40649d7a93f10800000000000000
+      internalID: 2250014040472739123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 449
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c1657b9825fe50800000000000000
+      internalID: 6842419857013720229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae2da2527f64090800000000000000
+      internalID: -8050475544873866500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 450
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f661c704c8022e0800000000000000
+      internalID: -2152566413295456364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045789a24de058e10800000000000000
+      internalID: 2199180297450845504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 441
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9721d12cb116ed80800000000000000
+      internalID: -8221864569999382628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 388
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198168e7c35b4210800000000000000
+      internalID: 1318239433998305559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 426
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73493538e35485e50800000000000000
+      internalID: 6798259772309345335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 449
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc225365973aa1b0800000000000000
+      internalID: -5644638068199510835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 449
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70cda5080b768a0800000000000000
+      internalID: -6311882287409788932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 451
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b60e60aa4a7fe0800000000000000
+      internalID: -1190557098584919751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_44
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3310f7fbb5f418680800000000000000
+      internalID: -8754628945158143693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_45
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 454
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bce2640eb14e250800000000000000
+      internalID: 5972929655864216361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 454
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c8a072ceb2db40800000000000000
+      internalID: 5463639040276873483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 454
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8584e147bf1c75e0800000000000000
+      internalID: -1910617269966961267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_48
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 454
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943c567ce5c74ee0800000000000000
+      internalID: -1276834349947538279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03367d4e37a51bf20800000000000000
+      internalID: 3436627444467458864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 407
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74f1e81df91a040800000000000000
+      internalID: 4657179212059199459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 409
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8092717fcf55060800000000000000
+      internalID: 6941732538837174519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 409
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71e77081d631550800000000000000
+      internalID: 6130363467753723853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 426
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9babf1999857c70800000000000000
+      internalID: 8968225523733543358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 429
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77a00194a2189a0800000000000000
+      internalID: -6232653916013955120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 411
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be57345d25589700800000000000000
+      internalID: 547281007900319414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_56
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e1c8bdac7d0370800000000000000
+      internalID: 8290419574629851842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 433
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731d6ec9ebb20ff0800000000000000
+      internalID: -71288031219477637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 434
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafa0f88068772b0800000000000000
+      internalID: -5586849441412089154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169443eb304689e10800000000000000
+      internalID: 2204621984836634977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 407
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12afefb509e7578d0800000000000000
+      internalID: -2849232030758143455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d31a005ee5ca6210800000000000000
+      internalID: 1327090667549758425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 408
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243029ef365093a0800000000000000
+      internalID: -6660729016386833364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 408
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3354e022cae84600800000000000000
+      internalID: 452869882047124286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 408
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13b64b944699a8c0800000000000000
+      internalID: -3987490773652819174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 409
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd76caad3fd48950800000000000000
+      internalID: 6450526022252527064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 409
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a4e3a0faeb44cc0800000000000000
+      internalID: -3727644932555519411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b429dbef3c8d40800000000000000
+      internalID: 5587911519852869169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 414
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d65dd3f17553410800000000000000
+      internalID: 1456165846217223578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 387
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae31d515982e97c80800000000000000
+      internalID: -8324373356814199830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_70
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 411
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c73021a28a89130800000000000000
+      internalID: 3573791202962799653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 410
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135ffdea0941b170800000000000000
+      internalID: 8192409508455076638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_72
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 412
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e4e9367deedc340800000000000000
+      internalID: 4885823779623554683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 386
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b75171ed76beea0800000000000000
+      internalID: -5842461888015402119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 385
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440508c2d1cea9070800000000000000
+      internalID: 8114057288706183236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b80b401493ebbee0800000000000000
+      internalID: -1244150646969792327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d21bda3d27c6120800000000000000
+      internalID: 2408426154214108554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 338
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893d28cb826bf440800000000000000
+      internalID: 4970674966231857551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 366
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7498f332674855fe0800000000000000
+      internalID: -1200908082691995321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 363
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7603348b97b7870800000000000000
+      internalID: 8681666538994952107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 372
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4385d186665e4520800000000000000
+      internalID: 2688181025851671373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 387
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582c250b1556ef00800000000000000
+      internalID: 1145696729751627870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_82
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d261a229d5531f0800000000000000
+      internalID: -1065842854450549476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 384
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c744adc25f744c30800000000000000
+      internalID: 4342735934306142153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_84
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de65684e4bb10ab0800000000000000
+      internalID: -5043544162781794601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 384
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbd401ec7232a90800000000000000
+      internalID: -7339979201693500100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_86
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476dcf60daa9bd50800000000000000
+      internalID: 6753616928424421197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_87
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35818b5303ad98b20800000000000000
+      internalID: 3137278516034803795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_88
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 387
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea4d34473827720800000000000000
+      internalID: 2842478850201661001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c649e74d67693c10800000000000000
+      internalID: 2033770425790056134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04358dfbbcf655e0800000000000000
+      internalID: -1921070306684488691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a601761b8603e260800000000000000
+      internalID: 7125546229876983457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 363
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69912cc2c4d9739d0800000000000000
+      internalID: -2794592093266110058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_93
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e53f26e7b89980800000000000000
+      internalID: -8531867294790982728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f93f7a5d8bc2460800000000000000
+      internalID: 7218347530553368328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_95
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138581111b3d1720800000000000000
+      internalID: 2818473886298243858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_96
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 349
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb54674c6691a30800000000000000
+      internalID: 4186490322601491221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b86a475adf80220800000000000000
+      internalID: 2452488884171737944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a48b565aa5a2830800000000000000
+      internalID: 4047146881568492132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_99
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 364
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fabce92ff8111df0800000000000000
+      internalID: -211360223310595337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_100
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f0c0d1db1385640800000000000000
+      internalID: 5068856068911402753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_101
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6b7e7ed9534c80800000000000000
+      internalID: -8339723272820396037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 367
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9af33dd883ebe70800000000000000
+      internalID: 9132799276139653571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_103
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 367
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394b66ec7bca2fec0800000000000000
+      internalID: -3534572852090588013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_104
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a01f812c3af700800000000000000
+      internalID: 574838017274980209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_105
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 367
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d747523ca0e9cb00800000000000000
+      internalID: 849457034919626705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698f70d4f97028390800000000000000
+      internalID: -7817677622388197226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4495eb8887722a350800000000000000
+      internalID: 6026422650018879812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 343
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d320d51b3950c70800000000000000
+      internalID: 8936711425565539739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 343
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10153223b7ca6090800000000000000
+      internalID: -8040394612529623012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee1003a0e9e57d0800000000000000
+      internalID: -2927728941151949286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_111
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 343
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1aaf6fd9d1a0760800000000000000
+      internalID: 7424779499964375535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 338
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d112001b0fdf8400800000000000000
+      internalID: 328726536427540951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_113
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 332
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aeb48d7caede7f0800000000000000
+      internalID: -581550632812680681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_114
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 349
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656b065cb60d2980800000000000000
+      internalID: -8562179910594239133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_115
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 347
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950cdb51fd144b7e0800000000000000
+      internalID: -1750701928742010791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_116
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 348
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1ac7abff9990f0800000000000000
+      internalID: -1109679929969468526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_117
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 347
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a937acbd8533710800000000000000
+      internalID: 1671777587702241936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_118
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af262ae54340c420800000000000000
+      internalID: 2648190548454027168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_119
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa5d032cb42b0a0800000000000000
+      internalID: -6867343184371535937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_120
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72aad8dda0378e0800000000000000
+      internalID: -1697000687907756117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7061f6467926390800000000000000
+      internalID: -7826526744800262211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_122
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 320
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ac0d167fa22620800000000000000
+      internalID: 2747951644477794423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900f9d5d432aa720800000000000000
+      internalID: 2858135728710156446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be3bfb08281a700800000000000000
+      internalID: 549864118999575308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_125
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 319
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba47bc0f530b510800000000000000
+      internalID: 1562808379019406180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 334
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4835efae4684fa1d0800000000000000
+      internalID: -3337369200581782652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_127
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 328
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32865ca091e00dbf0800000000000000
+      internalID: -301725674316142557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_128
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 329
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4370c26560ef640800000000000000
+      internalID: 5115533193915086061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_129
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 329
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43baf823f0210830800000000000000
+      internalID: 4035542969837335371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_130
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7615259a79426310800000000000000
+      internalID: 1396759625275348602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_131
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433f35d1358c6e90800000000000000
+      internalID: -7031098469154606259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_132
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f80cc9dfdfb68060800000000000000
+      internalID: 6955457642672949488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_133
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85751d0a966531060800000000000000
+      internalID: 6922972063868213080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_134
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744341d033f54f50800000000000000
+      internalID: 6865160597991015537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 318
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ca192a33a57cda0800000000000000
+      internalID: -5924667606965310310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_136
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 316
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59c8eb2bb681a30800000000000000
+      internalID: 4186214269086111182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_137
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 316
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53e16715cc4fc70800000000000000
+      internalID: 9004046205266572719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_138
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6e03e99c09dbf0800000000000000
+      internalID: -299194045164524195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_139
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 274
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58c5a948ca3fe00800000000000000
+      internalID: 1077394421397095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 274
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebb46c3293979d80800000000000000
+      internalID: -8243958336590660639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_141
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7333d336552daf0800000000000000
+      internalID: -373141934401439819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_142
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c4f827a12a62a0800000000000000
+      internalID: -6743540490203511364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_143
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbef3f176eda5b0800000000000000
+      internalID: -5355371004774400562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_144
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab7adbdc3dca9d0800000000000000
+      internalID: -2761599590881314246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_145
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f5e49647fb9d040800000000000000
+      internalID: 4672976595077455748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_146
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf2f42acba3ddd0800000000000000
+      internalID: -2462435686549881696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_147
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 276
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9289729d6a87450800000000000000
+      internalID: 6086798347993622960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_148
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c64ff193f97330800000000000000
+      internalID: 3709263576494950682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_149
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc8f5cc9f747da0800000000000000
+      internalID: -5947988896536540270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_150
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07052a90f00c5f0800000000000000
+      internalID: -738573804836458270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_151
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451c635e1e84a1b0800000000000000
+      internalID: -5646231771916004029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_152
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb67f847a6593120800000000000000
+      internalID: 2394039953407831013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_153
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72be1804cd8161ba0800000000000000
+      internalID: -6118675709482112217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_154
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e8e2b49f84c6d0800000000000000
+      internalID: -2971091985338144585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_155
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060240fc11c851b30800000000000000
+      internalID: 4257463030864158816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_156
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a29060d3583e160800000000000000
+      internalID: 7053627938533091988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_157
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1185ee1f92ab3c480800000000000000
+      internalID: -8880049350929131503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_158
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 297
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e6b6dfa1f02370800000000000000
+      internalID: 8295896251140334316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_159
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 297
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63624a84344af3d0800000000000000
+      internalID: -3172147995080498321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_160
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ebaab970a462910800000000000000
+      internalID: 1812217296600088106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_161
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 296
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829df2e8d14e0e2f0800000000000000
+      internalID: -945505106157119192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ac9738a0a84eb0800000000000000
+      internalID: -4735358363832113112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_163
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 282
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d3f841691c86e0800000000000000
+      internalID: -1834063042620173423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_164
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 254
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8956b6fc53138a20800000000000000
+      internalID: 3063313461539133838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_165
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 254
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea11c471cb6eb50800000000000000
+      internalID: 6622187110341389909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_166
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2103333d05f4c52a0800000000000000
+      internalID: -6747430933148520430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_167
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 274
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd7199b387c29a0800000000000000
+      internalID: -6256493584957579382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_168
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 274
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38450ba6f905a1140800000000000000
+      internalID: 4691150607479755907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_169
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf174a27919ae50800000000000000
+      internalID: 6821011090805226198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_170
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb558998e7388e0800000000000000
+      internalID: -1692369905529798804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_171
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 273
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90c4abec6a043b0800000000000000
+      internalID: -5530236935591949857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_172
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9393248d845a70800000000000000
+      internalID: 8814825969342979728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_173
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 273
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1ad04d51700da0800000000000000
+      internalID: -5980655659814085772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_174
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03485b5e25b2f31c0800000000000000
+      internalID: -4521847865815497680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_175
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a5f9b5e0a2c500800000000000000
+      internalID: 415071024199345309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_176
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50640df7a1a238410800000000000000
+      internalID: 1478071396009526789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 253
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138fff38b4a89920800000000000000
+      internalID: 2997326663269712658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_178
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 253
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1af1f27347093cb0800000000000000
+      internalID: -4883864334633928163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_179
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df118c7a68ca997c0800000000000000
+      internalID: -4064027494384659971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_180
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 242
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5aedb0c0c197160800000000000000
+      internalID: 7023675931925325288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 242
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953ed0cf41a39060800000000000000
+      internalID: 6959083213127824787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_182
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 242
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdeaf6b1c4de05d0800000000000000
+      internalID: -3094301965493277185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_183
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 241
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0687db322eb2e900800000000000000
+      internalID: 712340745320105484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_184
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 241
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7c122de6e0b9f0800000000000000
+      internalID: -454609656210490693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_185
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd4a9a25f8bfe70800000000000000
+      internalID: 9150064653129538368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_186
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 239
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c434cd0badff5d550800000000000000
+      internalID: 6185130977998422860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_187
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f84000359483b70800000000000000
+      internalID: 8878927286192344860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_188
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 242
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c331b6130372a940800000000000000
+      internalID: 5305929768098673609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_189
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 252
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8f734a66ffa9a0800000000000000
+      internalID: -6219481624115966334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_190
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 234
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695d0c07b10a22bf0800000000000000
+      internalID: -350541781265230442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_191
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 233
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104d23fbce5de010800000000000000
+      internalID: 1219735304138473493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_192
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 236
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2a84cc292296c0800000000000000
+      internalID: -4138199835347374777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 239
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c84dba22c61700800000000000000
+      internalID: 510809096573208802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_194
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 241
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87528179da891fe00800000000000000
+      internalID: 1076809657249965432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_195
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548385bdcf73b5a00800000000000000
+      internalID: 746251722411227205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_196
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dca2c3cdc61d910800000000000000
+      internalID: 1860387814238768526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_197
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 210
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65fe4272a2901440800000000000000
+      internalID: 4904581220606604654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0fc2a89ad5ba930800000000000000
+      internalID: 4155518063928471730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_199
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658f32f77014c890800000000000000
+      internalID: -7438802577157814944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_200
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 234
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542cc7ee669d81d0800000000000000
+      internalID: -3346853544986925995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_201
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 234
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a2dd32783f1930800000000000000
+      internalID: 4116070647754564353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_202
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 207
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef59adbd8b676280800000000000000
+      internalID: -9050146669661167647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_203
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779c787189b37b90800000000000000
+      internalID: -7245243409785645188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_204
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 232
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341cda49d0ea2e50800000000000000
+      internalID: 6785483012455535676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_205
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 232
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95a0936a8ab19c0800000000000000
+      internalID: -3955382415839831617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_206
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 235
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2adc177a399e8100800000000000000
+      internalID: 112195517116373547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_207
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 209
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e1dc7b96018360800000000000000
+      internalID: 7170019346634369526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_208
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb5599708d00c60800000000000000
+      internalID: 7782457683245121284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_209
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 203
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971eb6d96220ed60800000000000000
+      internalID: 7917365982887024539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_210
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 205
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6b39007316ec80800000000000000
+      internalID: -8293920291844034757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_211
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 179
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77690037df2572050800000000000000
+      internalID: 5775676295635572343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_212
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 180
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203de22bd0367910800000000000000
+      internalID: 1834707615941996590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_213
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 198
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06bef903a1fe2d40800000000000000
+      internalID: 5561648272398792202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_214
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 198
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65efff6fbd5f6ec0800000000000000
+      internalID: -3571532902682335893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_215
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72e6ec788ae73c70800000000000000
+      internalID: 8950880656354108029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_216
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 205
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53f039fb4cc9ab0800000000000000
+      internalID: -4999905159203047948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_217
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a19227df4c88670800000000000000
+      internalID: 8541293286129212029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_218
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 201
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099032e8f670b1990800000000000000
+      internalID: -7414324185827964528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_219
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 179
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3222868ae2cb3d0800000000000000
+      internalID: -3189623135248702493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_220
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc807699dcbaa20800000000000000
+      internalID: 3074777229352816534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_221
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ff7e3e0a5f3350800000000000000
+      internalID: 5998612245905404926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_222
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 177
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2572489a848b8c090800000000000000
+      internalID: -8013952914684631214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_223
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 178
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e0827fee302030800000000000000
+      internalID: 3467840911214437421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_224
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 189
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259a15974beb9680800000000000000
+      internalID: -8747139158560303839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_225
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 178
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648a3a2c897537cc0800000000000000
+      internalID: -3714528954038376378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_226
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 178
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf1328563c3cf20800000000000000
+      internalID: 3441809380984617643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_227
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 164
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a72d2882808760800000000000000
+      internalID: 7458104504310276314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_228
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 161
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11967bbd76c90370800000000000000
+      internalID: 8289374832470429983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_229
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 162
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915f9953ef2144f0800000000000000
+      internalID: -846342601461247597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_230
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 162
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840677dc64486ce20800000000000000
+      internalID: 3370526810763124808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_231
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 182
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ebe927776572a0800000000000000
+      internalID: -6740367505787985292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_232
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 179
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd427217a0383230800000000000000
+      internalID: 3618695794719346137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_233
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9523d683e053d5090800000000000000
+      internalID: -8044215024221343143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_234
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 143
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79fed4ba9968750800000000000000
+      internalID: 6306897289204963246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_235
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1fc862573970b80800000000000000
+      internalID: -8428606046233366032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_236
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200aa0654acfa350800000000000000
+      internalID: 6030260825395691566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_237
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 146
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812365fceb5a1a540800000000000000
+      internalID: 5017473698808345112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_238
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04165614daca6c520800000000000000
+      internalID: 2722052884918526272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_239
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174c59937719a1d0800000000000000
+      internalID: -3339111863456872688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_240
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 156
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea8e342606371bc0800000000000000
+      internalID: -3812519159540053275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_241
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 155
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce1212a5a695d250800000000000000
+      internalID: 5968842519282327238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_242
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28afa291282e1e0e0800000000000000
+      internalID: -2242262091057923454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_243
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 147
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c47775297a38e90800000000000000
+      internalID: -7024586746793341805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_244
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316c857989fb7b40800000000000000
+      internalID: 5439215343757975856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_245
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f873e80537b86830800000000000000
+      internalID: 4064700102112147698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_246
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 126
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05a14b195e09f20800000000000000
+      internalID: 3427491730383589557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_247
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 124
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de73841fd77fa9040800000000000000
+      internalID: 4655305285131843565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_248
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 142
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d107e768437d860800000000000000
+      internalID: 7554564652188835107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_249
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 130
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef604cf837869990800000000000000
+      internalID: -7379562260579979291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_250
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 133
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7914920cb94c82c10800000000000000
+      internalID: 2029087805353312663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_251
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea8b00e1e8eb240800000000000000
+      internalID: 4809437711590534910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_252
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e64e735119d940800000000000000
+      internalID: 5321303485013483586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e418126f20752a710800000000000000
+      internalID: 1703019279330410830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_254
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 114
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433d47b2640cd730800000000000000
+      internalID: 4025096988990976846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_255
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 114
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a1a6f7703acf840800000000000000
+      internalID: 5259257717459655261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_256
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666461797eece8240800000000000000
+      internalID: 4795998147263743590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_257
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb94cdeeb8ef2630800000000000000
+      internalID: 3904595308684024828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_258
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c3df3066fda7f0800000000000000
+      internalID: -599552282122270493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_259
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f2f5037267d7b80800000000000000
+      internalID: -8395424219661389997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_260
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162a315283562b30800000000000000
+      internalID: 4262185916526372374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_261
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec79d3a2f4c0e50800000000000000
+      internalID: 6776878582126333585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_262
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3affc208aec300800000000000000
+      internalID: 274341357348863379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_263
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ad443e2c758d90800000000000000
+      internalID: -7096129099964504414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_264
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb088b5459163a60800000000000000
+      internalID: 7653332466866326467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_265
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31ff9c3ae0ffa20800000000000000
+      internalID: 3098211165285585872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_266
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 78
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465fb6f890c98fe0800000000000000
+      internalID: -1186205263628118457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_267
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29abdf1b60039000800000000000000
+      internalID: 41377281672456491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_268
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 27
+        width: 14
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d35b63e210f7ec0800000000000000
+      internalID: -3567131081856172782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_269
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b6770577f250e0800000000000000
+      internalID: -2282489979114966251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_270
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb7ba797f3bd6e0800000000000000
+      internalID: -1811784634104037603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_271
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276d44ce727d3860800000000000000
+      internalID: 7511285642308708141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_272
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 23
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca975201978bcc880800000000000000
+      internalID: -8589287559200933460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_273
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 82
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6740e0c7110260800000000000000
+      internalID: 7061951807857585168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_274
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 44
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbfc1e9735499420800000000000000
+      internalID: 2637215161980353486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_275
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 42
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc8ed81b01792340800000000000000
+      internalID: 4839523567062125786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_276
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a9e18f6d00d940800000000000000
+      internalID: 5318765932496660081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_277
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9d011566d59940800000000000000
+      internalID: 5302379865864773073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_278
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069eba4ab1bebd310800000000000000
+      internalID: 1430995810579638624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_279
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5290c4fe17f2823c0800000000000000
+      internalID: -4384202070852630235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_280
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fed2aad397a3780800000000000000
+      internalID: -8702510024184959192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_281
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13932d2a0e2084b30800000000000000
+      internalID: 4271667410388531505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_282
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a7f2269891f6430800000000000000
+      internalID: 3778266690235628083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_283
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 10
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ab5a5adbc4f760800000000000000
+      internalID: 7490836218903241663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_super-mario-world-png_1684550_284
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2
+        width: 201
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652c2fda4fe25a50800000000000000
+      internalID: 6508527516354618735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
