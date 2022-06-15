@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Mario : MonoBehaviour
 {
-    public float speed = 20;
-    public float force = 5;
+    public float speed = 500;
+    public float force = 200;
     public Rigidbody2D player;
-    public int score;
-    public GameObject Enemy;
+    public int score = 0;
+    public GameObject coin;
 
     // Start is called before the first frame update
     void Start()
@@ -25,11 +25,13 @@ public class Mario : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.UpArrow))
        player.velocity += Vector2.up*force;    
     }
-    void OnCollisionEnter2D(Collision2D Enemy)
+    void OnCollisionEnter2D(Collision2D coin)
     {
-        if(Enemy.gameObject.name.StartsWith("Enemy"))
+        if(coin.gameObject.name.StartsWith("coin"))
         {
-           Destroy(Enemy.gameObject);
+           Destroy(coin.gameObject);
+           score++;
+           Debug.Log(score);
         }
     }
     
